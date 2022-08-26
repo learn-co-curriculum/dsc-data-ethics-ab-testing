@@ -12,7 +12,7 @@ You will be able to:
 * List the three ethical areas of application in the Belmont Report
 
 ![graphic of phones showing A and B](https://www.ama.org/wp-content/uploads/2018/12/a-b-test-ethics.gif?resize=735%2C330)
-<small>Image credit [American Marketing Association](https://www.ama.org/marketing-news/are-a-b-tests-ethical/)</small>
+<p><small>Image credit&nbsp;<a href="https://www.ama.org/marketing-news/are-a-b-tests-ethical/">American Marketing Association</a></small></p>
 
 ## Ethical Concerns with a Classic Example
 
