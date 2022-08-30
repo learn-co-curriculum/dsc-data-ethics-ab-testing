@@ -11,10 +11,11 @@ You will be able to:
 * Describe the ethical considerations of low-stakes and high-stakes A/B testing
 * List the three ethical areas of application in the Belmont Report
 
-![graphic of phones showing A and B](https://www.ama.org/wp-content/uploads/2018/12/a-b-test-ethics.gif?resize=735%2C330)
-<p><small>Image credit&nbsp;<a href="https://www.ama.org/marketing-news/are-a-b-tests-ethical/">American Marketing Association</a></small></p>
-
 ## Ethical Concerns with a Classic Example
+
+![graphic of phones showing A and B](https://www.ama.org/wp-content/uploads/2018/12/a-b-test-ethics.gif?resize=735%2C330)
+
+<p><small>Image credit&nbsp;<a href="https://www.ama.org/marketing-news/are-a-b-tests-ethical/">American Marketing Association</a></small></p>
 
 Some A/B tests are low-stakes, like the classic example of *the color of a button*. One might wonder how there could possibly be ethical concerns about this kind of test! However there are two relevant ethical considerations: usability and consent.
 
@@ -75,6 +76,7 @@ Even though following the Belmont Report is not mandatory for a company like Fac
 ## Additional Resources
 
 * [YouTube video about the Belmont Commission](https://youtu.be/M6AKIIhoFn4)
+* [Where are human subjects in Big Data research? The emerging ethics divide](https://journals.sagepub.com/doi/pdf/10.1177/2053951716650211)
 
 ## Summary
 
