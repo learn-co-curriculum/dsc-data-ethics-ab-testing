@@ -2,7 +2,7 @@
 
 ## Introduction
 
-When using A/B testing as a method to optimize websites, ad campaigns and more, we may tread potentially dangerous waters when it comes to ethics. Often the purpose for A/B testing is to maximize revenue or optimize some other metric, but it's also important to consider user impact when building A/B tests.
+When using A/B testing as a method to optimize websites, ad campaigns and more, you may tread potentially dangerous waters when it comes to ethics. Often the purpose for A/B testing is to maximize revenue or optimize some other metric, but it's also important to consider user impact when building A/B tests.
 
 ## Objectives
 
